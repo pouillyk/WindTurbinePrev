@@ -45,7 +45,7 @@ This project was developed in an autodidact manner, without external constrain. 
 
 ## Results & Insights
 
-![Feature Importance](images/Features_importance.png)
+![Feature Importance](Features_importance.png)
 
 * **Power of the wind Speed and direction** The power output highly depend on the wind speed to the power of 1, 2 and 3 and to the North-South and East-West components.
 
