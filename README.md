@@ -38,6 +38,10 @@ This project was developed in an autodidact manner, without external constrain. 
   * `Windp3` : wind speed to the power 3.
   * Cleaning highly turbulent wind (from standard deviation) and NaN
 
+![Cleaned dataset](dataClean.png)
+
+* The data set respect the expected **S-shape** for the power output of a wind turbine
+
 ### 2. Modelisation & Performances
 * **XGBoost Regressor (Selected) :** Optimized using RandomizedSearchCV. Verified using a cross validation algorithm.
 
