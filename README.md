@@ -1,4 +1,4 @@
-# WindTurbinePred - Prediction of daily Power Output from 
+# WindTurbinePrev - Prediction of daily Power Output from 
 
 
 ## Project
