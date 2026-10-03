@@ -58,7 +58,9 @@ This project was developed in an autodidact manner, without external constrain. 
 
 ## Launch project on local
 
-1. **Clone project :**
+1. **Clone and launch project :**
    ```bash
    git clone [https://github.com/pouillyk/WindTurbinePrev.git](https://github.com/pouillyk/WindTurbinePrev.git)
+   cd WindTurbinPrev
+   python prediction.py
 
